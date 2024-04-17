@@ -2,15 +2,146 @@
   "files": [
     {
       "id": 1,
-      "title": "hello"
+      "fundCode": "AZLP",
+      "awardYear": "2021-2022",
+      "awardingCloseoutDate": "07/23/2023",
+      "fundCloseoutDate": "07/31/2023",
+      "codCloseoutDate": "",
+      "status": "Pending"
     },
     {
-      "id": 2,
-      "title": "hello"
+        "id": 2,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "07/31/2023",
+        "status": "Open"
+      },
+      {
+        "id": 3,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "",
+        "status": "Closed"
+      },
+      {
+        "id": 4,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "",
+        "status": "Closed"
+      },
+      {
+        "id": 5,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "",
+        "status": "Pending"
+      },
+      {
+        "id": 6,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "07/31/2023",
+        "status": "Open"
+      },
+      {
+        "id": 7,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "",
+        "status": "Pending"
+      },
+      {
+        "id": 8,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "",
+        "status": "Pending"
+      },
+      {
+        "id": 9,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "07/31/2023",
+        "status": "Open"
+      },
+      {
+        "id": 10,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "",
+        "status": "Open"
+      },
+      {
+        "id": 11,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "",
+        "status": "Pending"
+      },
+      {
+        "id": 12,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "",
+        "status": "Pending"
+      },
+      {
+        "id": 13,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "07/31/2023",
+        "status": "Open"
+      },
+      {
+        "id": 14,
+        "fundCode": "AZLP",
+        "awardYear": "2021-2022",
+        "awardingCloseoutDate": "07/23/2023",
+        "fundCloseoutDate": "07/31/2023",
+        "codCloseoutDate": "",
+        "status": "Pending"
+      }
+  ],
+  "historyActivity": [
+    {
+        "activityDate": "07/02/22",
+        "updatedBy": "username",
+        "udpatedTo": "07/02/22"
     },
     {
-      "id": 3,
-      "title": "hello"
+        "activityDate": "07/02/22",
+        "updatedBy": "username",
+        "udpatedTo": "07/02/22"
+    },
+    {
+        "activityDate": "07/02/22",
+        "updatedBy": "username",
+        "udpatedTo": "07/02/22"
     }
-  ] 
+  ]
 }
